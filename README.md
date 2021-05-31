@@ -2,7 +2,7 @@
 Dieses Repository beinhaltet den Code, welchen ich in meiner Bachelorarbeit verwendet habe. 
 
 ### Die Ordner beinhalten Folgendes:
-- Funktionen: Beinhaltet Funktionen, welche in mehreren Skripten verwendet wurden.
+- Functions: Beinhaltet Funktionen, welche in mehreren Skripten verwendet wurden.
 - Deskriptive Analyse: Beinhaltet den Code, um die Rohdaten zu analysieren. 
 - Datenaufbereitung: Beinhaltet den Code, um die Rohdaten (DICOM Bilder und Labels) in einem HDF5-File zu speichern und die Schritte zur Datenaufbereitung, welcher in der Bachelorarbeit beschrieben werden (einheitliche Bildgrösse, Normalisierung der Signalwerte und Erweiterung der Dimension).
-- Modelle: Beinhaltet das Modell für die Schlaganfall Detektion und das Modell für die Outcome-Prognose.
+- Modelle: Beinhaltet für die Schlaganfall Detektion und die Outcome Prognose die Hyperparameter Optimierung, die 5-fache Kreuzvalidierung und das Ensembling-Modell.
