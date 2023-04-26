@@ -1,6 +1,6 @@
-# 👩‍⚕️💻 Using 3D CNNs for predicting therapy outcomes in stroke patients using TOF-MRA images. This repository contains the 💻 code I used in my Bachelor's thesis.
+# 👩‍⚕️💻 Using 3D CNNs for predicting therapy outcomes in stroke patients using TOF-MRA images. 
 
-The folders include the following:
+This repository contains the 💻 code I used in my Bachelor's thesis and is structured as follows:
 
 - 📚 Functions: Contains functions that were used in multiple scripts.
 - 🔍 Descriptive Analysis: Contains the code for analyzing the raw data.
