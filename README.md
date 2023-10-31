@@ -1,4 +1,4 @@
-# 👩‍⚕️💻 Using 3D CNNs for predicting therapy outcomes in stroke patients using TOF-MRA images. 
+# 👩‍⚕️💻 Leveraging 3D CNNs for predicting therapy outcomes in stroke patients using TOF-MRA images. 
 
 This repository contains the 💻 code I used in my Bachelor's thesis and is structured as follows:
 
